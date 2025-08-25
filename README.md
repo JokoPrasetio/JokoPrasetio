@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00C7FF&center=true&vCenter=true&lines=Hi+👋+I'm+Joko;Fullstack+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00C7FF&center=true&vCenter=true&lines=Hi+👋+I'm+Joko;Fullstack+Developer;Pro+Laravel;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
